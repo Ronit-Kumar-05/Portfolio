@@ -27,7 +27,7 @@ const Footer = () => {
                   style={{ color: '#fff', marginRight: '2rem' }}
                   cursor="pointer"
                 />
-                +91 8709124078
+                {/* +91 8709124078 */}
               </h4>
             </div>
 
